@@ -1,0 +1,10 @@
+//dùng để impport file cho dễ
+{
+    "plugins": [
+      ["module-resolver", {
+        "alias": {
+          "~": "./src"
+        }
+      }]
+    ]
+ }
